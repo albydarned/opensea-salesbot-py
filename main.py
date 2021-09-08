@@ -2,7 +2,7 @@ import datetime
 import requests
 
 # Set global variables
-MINUTES = 240 * 10
+MINUTES = 5
 LIMIT = 10
 DEBUG = True
 WOW_SYMBOLS = ["ETH", "WETH"]
